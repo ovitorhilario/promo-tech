@@ -1,7 +1,7 @@
 # 🕹️ Promo Tech
 Promo Tech é um sistema de promoções e cupons de tecnologia/hardware desenvolvido na disciplina de Programação Orientada a Objetos 2, ministrada pela professora Gisele Alves Santana na UTFPR - Universidade Tecnológica Federal do Paraná, Campus Cornélio Procópio.
 
-Link em produção: [Acessar o site](https://promotech-one.vercel.app/)
+🔗 Link em produção: [Acessar o site](https://promotech-one.vercel.app/)
 
 O sistema inclui diversas funcionalidades, tais como:
 
